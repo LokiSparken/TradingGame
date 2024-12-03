@@ -2,13 +2,48 @@
 > is enormously risky
 
 ## Book List
-
 1. [x] 小狗钱钱 | *Ein Hund Namens Money.* [German]Bodo Schaefer.
-2. [ ] 金融怪杰：华尔街的顶级交易员 | *Market Wizards: Interviews With Top Traders*. [American]Jack D. Schwager. 1989.
-<!-- 3. [ ] 新金融怪杰：顶尖操盘手的致胜之钥 | *The New Market Wizards：Conversations with America’s Top Traders*. [American]Jack D. Schwager. 1992. -->
+   * 理财入门意识：尽量少背不背债务、理财前先准备好至少几个月的生活费、闲钱投资等基本理念
+2. [x] 金融怪杰：华尔街的顶级交易员 | *Market Wizards: Interviews With Top Traders*. [American]Jack D. Schwager. 1989.
+   * 对优秀交易者的访谈录，记述了很多常见错误以及有助于完善交易策略的想法和具体方法。
+3. [ ] 新金融怪杰：顶尖操盘手的致胜之钥 | *The New Market Wizards：Conversations with America’s Top Traders*. [American]Jack D. Schwager. 1992.
+4. [ ] 
 <!-- 4. [ ]  | *Stock Market Wizards: Interviews with America's Top Stock Traders*. [American]Jack D. Schwager.  -->
 <!-- 5. [ ] 对冲基金奇才 | *Hedge Fund Market Wizards: How Winning Traders Win*. -->
-6. [ ] To be continued...
+1. [ ] To be continued...
 
 
+
+# 待整理书单
+1. [ ] 新金融怪杰
+2. [ ] 股市趋势技术分析 | 技术分析，主打全面
+3. [ ] 日本蜡烛图技术 | 技术分析，听说比《股市趋势技术分析》讲得细腻
+4. [ ] 期货市场技术分析 | 地震出版社，约翰.墨菲（丁圣元翻译）
+5. [ ] 金融市场技术分析 | 听说是《期货市场技术分析》升级版
+6. [ ] 巴菲特的护城河 | 企业选择
+7. [ ] 聪明的投资者 | 价值投资
+8. [ ] 艾略特波浪理论 小罗伯特.普莱切特
+9.  [ ] 《完全技术分析手册》 | 寰宇证券投资顾问公司 台湾翻译美国期货协会的书，繁体字
+10. [ ] 丁圣元翻译的《股票大作手回忆录》和《股票大作手操盘术》
+11. [ ] 财务报表分析与股票估值
+12. [ ] 幽灵的礼物
+13. [ ] 海龟交易法则 | 学习科学的建仓方法，一致性等内容
+14. [ ] 索罗斯《金融炼金术》，最好也找一本英文版的，对照着看，这本书的哲学水平较高，翻译的有些词不达意
+15. [ ] 马克.泰尔《巴菲特与索罗斯的投资习惯》，入门级的纪律层面的书籍
+16. [ ] 《华尔街幽灵》，入门级的操作和行为习惯的引导书籍 貌似和幽灵的礼物是同一本……？
+17. [ ] 雷.达里奥《原则》
+18. [ ] 安德鲁.希夫《经济为什么会崩溃》 漫画形式，经济学原理
+19. [ ] 塔勒布《黑天鹅》
+20. [ ] 珍妮特.洛尔《查理.芒格传》
+21. [ ] 投资有规律 | A股牛市熊市分析
+22. [ ] 股市长线法宝 | 从非常宏观（全球）与长期（200年）的角度研究了股市的优势
+23. [ ] 以交易为生 | 交易工具：交易纪律、交易系统、交易风险、资金管理、交易日志
+24. [ ] 追寻价值之路：1990~2020年中国股市行情复盘 | A股复盘
+25. [ ] 笑傲股市 | 欧奈尔
+26. [ ] TO BE CONTINUED
+
+
+# Articles
+1. [x] 炒股的人试过了各种指标和方法，突然有一天开悟了，开始稳定盈利。他们悟到什么了呢？ - 不二哥的回答 - 知乎 https://www.zhihu.com/question/30793521/answer/295872063
+2. [ ] To be continued...
 
