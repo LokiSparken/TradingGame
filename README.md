@@ -2,17 +2,23 @@
 > is enormously risky
 
 ## Book List
+入门与意识
 1. [x] 小狗钱钱 | *Ein Hund Namens Money.* [German]Bodo Schaefer.
    * 理财入门意识：尽量少背不背债务、理财前先准备好至少几个月的生活费、闲钱投资等基本理念
 2. [x] 金融怪杰：华尔街的顶级交易员 | *Market Wizards: Interviews With Top Traders*. [American]Jack D. Schwager. 1989.
    * 对优秀交易者的访谈录，记述了很多常见错误以及有助于完善交易策略的想法和具体方法。
 3. [ ] 新金融怪杰：顶尖操盘手的致胜之钥 | *The New Market Wizards：Conversations with America’s Top Traders*. [American]Jack D. Schwager. 1992.
-4. [ ] 
-<!-- 4. [ ]  | *Stock Market Wizards: Interviews with America's Top Stock Traders*. [American]Jack D. Schwager.  -->
-<!-- 5. [ ] 对冲基金奇才 | *Hedge Fund Market Wizards: How Winning Traders Win*. -->
-1. [ ] To be continued...
+4. [ ] 漫步华尔街
+5. [ ]  | *Stock Market Wizards: Interviews with America's Top Stock Traders*. [American]Jack D. Schwager. 
+6. [ ] 对冲基金奇才 | *Hedge Fund Market Wizards: How Winning Traders Win*.
+7. [ ] To be continued...
 
-
+经济学
+8. [ ] 安德鲁.希夫《经济为什么会崩溃》 漫画形式，经济学原理
+9. [ ] 可乐牛奶经济学 | 身边的经济学
+10. [ ] 置身事内：中国政府与经济发展
+11. [ ] 逃不开的经济周期 | 经济周期的历史、成因、表现，如何解决经济周期带来的问题、通过经济周期投资
+12. [ ] 涛动周期论 | 券商报告
 
 # 待整理书单
 1. [ ] 新金融怪杰
@@ -32,7 +38,7 @@
 15. [ ] 马克.泰尔《巴菲特与索罗斯的投资习惯》，入门级的纪律层面的书籍
 16. [ ] 《华尔街幽灵》，入门级的操作和行为习惯的引导书籍 貌似和幽灵的礼物是同一本……？
 17. [ ] 雷.达里奥《原则》
-18. [ ] 安德鲁.希夫《经济为什么会崩溃》 漫画形式，经济学原理
+18. [ ] 
 19. [ ] 塔勒布《黑天鹅》
 20. [ ] 珍妮特.洛尔《查理.芒格传》
 21. [ ] 投资有规律 | A股牛市熊市分析
@@ -45,5 +51,19 @@
 
 # Articles
 1. [x] 炒股的人试过了各种指标和方法，突然有一天开悟了，开始稳定盈利。他们悟到什么了呢？ - 不二哥的回答 - 知乎 https://www.zhihu.com/question/30793521/answer/295872063
-2. [ ] To be continued...
+2. [ ] 巴菲特致股东的信
+3. [ ] To be continued...
+
+# Videos
+1. [x] My money & me 金钱与我 | 纪录片，B站
+   * 记账、减少贷款与不必要生活开支等习惯
+2. [x] Super shoppers 超级顾客 | 纪录片，B站
+   * 性价比产品挑选
+3. [x] Become Warren Buffett 成为沃伦巴菲特 | y2b或者B站有搬运
+   * 关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活中的其它方面：生活简单而专注，与 Munger 的友谊，和家人的感情历程以及……人格是如何完整的。
+4. [ ] 经济机器是如何运行的
+5. [ ] 美国商业大亨传奇
+6. [ ] Why poverty？ 为什么贫穷
+7. [ ] 
+
 
