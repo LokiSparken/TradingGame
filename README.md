@@ -1,14 +1,15 @@
 > # DigitalGames
 > is enormously risky
 
-## Book List
-入门与意识
-1. [x] 小狗钱钱 | *Ein Hund Namens Money.* [German]Bodo Schaefer.
-   * 理财入门意识：尽量少背不背债务、理财前先准备好至少几个月的生活费、闲钱投资等基本理念
-2. [x] 金融怪杰：华尔街的顶级交易员 | *Market Wizards: Interviews With Top Traders*. [American]Jack D. Schwager. 1989.
-   * 对优秀交易者的访谈录，记述了很多常见错误以及有助于完善交易策略的想法和具体方法。
-3. [ ] 新金融怪杰：顶尖操盘手的致胜之钥 | *The New Market Wizards：Conversations with America’s Top Traders*. [American]Jack D. Schwager. 1992.
-4. [ ] 漫步华尔街
+<!-- TOC -->
+
+- [> # DigitalGames](#--digitalgames)
+    - [Book List](#book-list)
+- [待整理书单](#%E5%BE%85%E6%95%B4%E7%90%86%E4%B9%A6%E5%8D%95)
+- [Articles](#articles)
+- [Videos](#videos)
+
+<!-- /TOC -->
 5. [ ]  | *Stock Market Wizards: Interviews with America's Top Stock Traders*. [American]Jack D. Schwager. 
 6. [ ] 对冲基金奇才 | *Hedge Fund Market Wizards: How Winning Traders Win*.
 7. [ ] To be continued...
@@ -60,7 +61,7 @@
 2. [x] Super shoppers 超级顾客 | 纪录片，B站
    * 性价比产品挑选
 3. [x] Become Warren Buffett 成为沃伦巴菲特 | y2b或者B站有搬运
-   * 关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活中的其它方面：生活简单而专注，与 Munger 的友谊，和家人的感情历程以及……人格是如何完整的。
+   * 关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活方式和成长历程。
 4. [ ] 经济机器是如何运行的
 5. [ ] 美国商业大亨传奇
 6. [ ] Why poverty？ 为什么贫穷

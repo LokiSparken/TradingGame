@@ -79,7 +79,7 @@
     * 才发现 Susie 的采访片段标的是 2004 Interview……
     * 然后突然想到前面 00:30:16 Warren 说：She was incredibly empathetic, and she was interested in every person individually. 
 
-小结：关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活中的其它方面：生活简单而专注，与 Munger 的友谊，和家人的感情历程以及……人格是如何完整的。
+小结：关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活中的其它方面：生活简单而专注，对员工及投资人的负责，与 Munger 之间的友谊，和家人的感情历程以及……人格是如何成长的。
 
 
 
