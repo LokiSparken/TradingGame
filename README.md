@@ -3,18 +3,28 @@
 
 <!-- TOC -->
 
-- [> # DigitalGames](#--digitalgames)
-    - [Book List](#book-list)
-- [待整理书单](#%E5%BE%85%E6%95%B4%E7%90%86%E4%B9%A6%E5%8D%95)
-- [Articles](#articles)
-- [Videos](#videos)
+* [Book List](#book-list)
+* [待整理书单](#待整理书单)
+* [Articles](#articles)
+* [Videos](#videos)
+* [Toolkits](#toolkits)
 
 <!-- /TOC -->
+
+# Book List
+入门与意识
+1. [x] 小狗钱钱 | *Ein Hund Namens Money.* [German]Bodo Schaefer.
+   * 理财入门意识：尽量少背不背债务、理财前先准备好至少几个月的生活费、闲钱投资等基本理念
+2. [x] 金融怪杰：华尔街的顶级交易员 | *Market Wizards: Interviews With Top Traders*. [American]Jack D. Schwager. 1989.
+   * 对优秀交易者的访谈录，记述了很多常见错误以及有助于完善交易策略的想法和具体方法。
+3. [ ] 新金融怪杰：顶尖操盘手的致胜之钥 | *The New Market Wizards：Conversations with America’s Top Traders*. [American]Jack D. Schwager. 1992.
+4. [ ] 漫步华尔街
 5. [ ]  | *Stock Market Wizards: Interviews with America's Top Stock Traders*. [American]Jack D. Schwager. 
 6. [ ] 对冲基金奇才 | *Hedge Fund Market Wizards: How Winning Traders Win*.
 7. [ ] To be continued...
 
 经济学
+
 8. [ ] 安德鲁.希夫《经济为什么会崩溃》 漫画形式，经济学原理
 9. [ ] 可乐牛奶经济学 | 身边的经济学
 10. [ ] 置身事内：中国政府与经济发展
@@ -66,5 +76,21 @@
 5. [ ] 美国商业大亨传奇
 6. [ ] Why poverty？ 为什么贫穷
 7. [ ] 
+
+# Toolkits
+股票
+1. JoinQuant：https://www.joinquant.com/
+2. Uqer：uqer.datayes.com
+3. RiceQuant
+4. MyQuant
+5. ThinkTrader
+
+期货/期权/大饼
+
+6. tradeblazer.net
+7. vnpy.com
+8. wenhua.com.cn
+9. weistock.com
+10. multicharts.cn
 
 
