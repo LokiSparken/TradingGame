@@ -8,6 +8,7 @@
 * [Articles](#articles)
 * [Videos](#videos)
 * [Toolkits](#toolkits)
+* [Infos](#infos)
 
 <!-- /TOC -->
 
@@ -92,5 +93,18 @@
 8. wenhua.com.cn
 9. weistock.com
 10. multicharts.cn
+
+# Infos
+1. 电子式储蓄国债发行信息：https://gks.mof.gov.cn/ztztz/guozaiguanli/gzfxdzs/
+2. 国家外汇储备：https://www.safe.gov.cn/safe/whcb/index.html 国家队黄金储备量
+3. 中证指数网：https://www.csindex.com.cn/#/ 指数编制方案、估值（市盈率股息率）、相关产品（基金、ETF、LOF）等
+4. 新闻：
+   1. 人民网：http://www.people.com.cn/
+   2. 新华网：http://www.xinhuanet.com/
+   3. 第一财经：https://www.yicai.com/
+   4. 巨潮网：http://www.cninfo.com.cn/new/index
+   5. 资本市场电子化信息披露平台：http://eid.csrc.gov.cn/ 企业年报、ETF完整报告（含所有持仓等）、债券、机构信息
+5. 海关总署进出口贸易数据：http://www.customs.gov.cn/eportal/ui?pageId=302275
+6. Continued...
 
 
