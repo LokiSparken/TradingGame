@@ -19,10 +19,10 @@
 2. [x] 金融怪杰：华尔街的顶级交易员 | *Market Wizards: Interviews With Top Traders*. [American]Jack D. Schwager. 1989.
    * 对优秀交易者的访谈录，记述了很多常见错误以及有助于完善交易策略的想法和具体方法。
 3. [ ] 新金融怪杰：顶尖操盘手的致胜之钥 | *The New Market Wizards：Conversations with America’s Top Traders*. [American]Jack D. Schwager. 1992.
-4. [x] [股市复利之道.阳光下的沈同学.知乎, 2018.](https://www.zhihu.com/question/428833304/answer/2868643702)
+4. [ ] 股市金融怪杰：美国顶尖股票交易员访谈 | *Stock Market Wizards: Interviews with America's Top Stock Traders*. [American]Jack D. Schwager. 2001.
+5. [x] [股市复利之道](https://www.zhihu.com/question/428833304/answer/2868643702). 阳光下的沈同学. 知乎, 2018.
    * 基本思路概览与不同类型各类交易策略的细化学习方向。含[看盘心得](https://zhuanlan.zhihu.com/p/558556059)、[基本面](https://zhuanlan.zhihu.com/p/560683362)、[技术面](https://zhuanlan.zhihu.com/p/564786934)、消息面、[实战](https://zhuanlan.zhihu.com/p/582699122)、心理素质修炼等。
-5. [ ] 漫步华尔街
-6. [ ]  | *Stock Market Wizards: Interviews with America's Top Stock Traders*. [American]Jack D. Schwager. 
+6. [ ] 漫步华尔街
 7. [ ] 对冲基金奇才 | *Hedge Fund Market Wizards: How Winning Traders Win*.
 8. [ ] To be continued...
 
