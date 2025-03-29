@@ -48,7 +48,7 @@
 2. [ ] 财报就像一本故事书
 
 ## 经济观察
-1. [ ] 逃不开的经济周期 | *Business Cycles: History, Theory and Investment Reality.* [Danish]Lars Tvede. 3rd 2006.
+1. [ ] 逃不开的经济周期 | *Business Cycles: History, Theory and Investment Reality*. [Danish]Lars Tvede. 3rd 2006.
    * 经济周期的历史、成因、表现，如何解决经济周期带来的问题、通过经济周期投资
 2. [ ] 安德鲁.希夫《经济为什么会崩溃》 漫画形式，经济学原理
 3. [ ] 可乐牛奶经济学 | 身边的经济学
@@ -107,10 +107,17 @@
 22. [ ] 《低欲望社会》大前研一
 23. [ ] 《大萧条与罗斯福新政》埃里克劳赫威
 24. [ ] 
-25. [ ] 期权、期货及其他衍生产品 *Options, futures, and other derivatives*. 11th | 金融专业教材
-26. [ ] 金融随机分析 **.Steven E. Shreve.| 金融工程专业书
-27. [ ] 金融人工智能 *Artificial Intelligence in Finance*. | 用炼丹优化量化模型
-28. [ ] To be continued...
+25. [ ] 投资最重要的事
+26. [ ] 巴菲特致股东的信
+27. [ ] 通向财务自由之路
+28. [ ] 重塑证券交易心理：把握市场脉搏的方法和技术
+29. [ ] 滚雪球：巴菲特和他的财富人生
+30. [ ] 怎样选择成长股 费雪
+31. [ ] 
+32. [ ] 期权、期货及其他衍生产品 *Options, futures, and other derivatives*. 11th | 金融专业教材
+33. [ ] 金融随机分析 **.Steven E. Shreve.| 金融工程专业书
+34. [ ] 金融人工智能 *Artificial Intelligence in Finance*. | 用炼丹优化量化模型
+35. [ ] To be continued...
 
 
 # Articles
@@ -120,7 +127,7 @@
    1. [x] [怎么看懂上市公司年报？【股票投资者版本】 - 阳光下的沈同学的文章 - 知乎](https://zhuanlan.zhihu.com/p/367359240)
    2. [ ] [股票基本面如何分析？ - 阳光下的沈同学的回答 - 知乎](https://www.zhihu.com/question/23192771/answer/754928083)
 3. [ ] 
-4. [ ] 巴菲特致股东的信
+4. [ ] 
 5. [ ] To be continued...
 
 # Videos
@@ -131,8 +138,8 @@
 3. [x] [Become Warren Buffett 成为沃伦巴菲特](www.bilibili.com/video/BV13x411y7th) | 纪录片，y2b、B站
    * 关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活方式和成长历程。
 4. [ ] 经济机器是如何运行的
-5. [ ] 美国商业大亨传奇
-6. [ ] Why poverty？ 为什么贫穷
+5. [ ] 
+6. [ ] 
 7. [ ] To be continued...
 
 # Toolkits
@@ -162,6 +169,7 @@
    4. [巨潮网](http://www.cninfo.com.cn/new/index)
    5. [资本市场电子化信息披露平台](http://eid.csrc.gov.cn/)：企业年报、ETF季报年报（含所有持仓等）、债券、机构信息
 5. [海关总署进出口贸易数据](http://www.customs.gov.cn/eportal/ui?pageId=302275)
-6. To be continued...
+6. [中经数据](https://ceidata.cei.cn/)
+7. To be continued...
 
 
