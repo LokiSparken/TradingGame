@@ -158,6 +158,12 @@
 9. weistock.com
 10. multicharts.cn
 
+论坛
+
+11. 量化思路 https://quantpedia.com/
+12. 外汇工厂交易系统板块 https://www.forexfactory.com/forum/71-trading-systems
+13. 技术指标观察 https://forex-station.com/
+
 # Infos
 1. [电子式储蓄国债发行信息](https://gks.mof.gov.cn/ztztz/guozaiguanli/gzfxdzs/)
 2. [国家外汇储备](https://www.safe.gov.cn/safe/whcb/index.html)：观察国家队黄金储备量
