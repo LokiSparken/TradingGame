@@ -176,6 +176,7 @@
    5. [资本市场电子化信息披露平台](http://eid.csrc.gov.cn/)：企业年报、ETF季报年报（含所有持仓等）、债券、机构信息
 5. [海关总署进出口贸易数据](http://www.customs.gov.cn/eportal/ui?pageId=302275)
 6. [中经数据](https://ceidata.cei.cn/)
-7. To be continued...
+7. [中国宏观经济论坛 China Macroeconomy Forum](http://ier.ruc.edu.cn/)
+8. To be continued...
 
 
