@@ -15,6 +15,7 @@
 * [待整理书单](#待整理书单)
 * [Articles](#articles)
 * [Videos](#videos)
+* [Lectures](#lectures)
 * [Toolkits](#toolkits)
 * [Infos](#infos)
 
@@ -57,6 +58,9 @@
 6. [ ] 经济学300年 | 上下册
 7. [ ] 置身事内：中国政府与经济发展
 8. [ ] 涛动周期论 | 券商报告
+9. [ ] 21世纪货币政策 | [American]Ben S. Bernanke.
+10. [ ] 经济学原理 曼昆 上/下
+11. [ ] 魔鬼经济学
 
 ## 市场观察
 1. [ ] 股市长线法宝 | 从非常宏观（全球）与长期（200年）的角度研究了股市的优势
@@ -126,8 +130,9 @@
 2. [ ] 关于财务报表
    1. [x] [怎么看懂上市公司年报？【股票投资者版本】 - 阳光下的沈同学的文章 - 知乎](https://zhuanlan.zhihu.com/p/367359240)
    2. [ ] [股票基本面如何分析？ - 阳光下的沈同学的回答 - 知乎](https://www.zhihu.com/question/23192771/answer/754928083)
-3. [ ] 
-4. [ ] 
+3. [x] [我国中央和地方的财政是怎样分配的？ - 有鸡大米的回答 - 知乎](https://www.zhihu.com/question/22489306/answer/2986627991) | 经济观察
+4. [x] [职业交易员如何做盘中纪录和“复盘” - Undefined的文章 - 知乎](https://zhuanlan.zhihu.com/p/659720478)
+   * 记录盘中细节心理但不要当场总结&记录特殊交易日
 5. [ ] To be continued...
 
 # Videos
@@ -138,9 +143,10 @@
 3. [x] [Become Warren Buffett 成为沃伦巴菲特](www.bilibili.com/video/BV13x411y7th) | 纪录片，y2b、B站
    * 关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活方式和成长历程。
 4. [ ] 经济机器是如何运行的
-5. [ ] 
-6. [ ] 
-7. [ ] To be continued...
+5. [ ] To be continued...
+
+# Lectures
+
 
 # Toolkits
 股票
