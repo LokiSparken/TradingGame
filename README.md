@@ -1,4 +1,4 @@
-> # DigitalGames
+> # Trading Game
 > is enormously risky
 
 <!-- TOC -->
