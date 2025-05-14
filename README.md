@@ -130,10 +130,12 @@
 2. [ ] 关于财务报表
    1. [x] [怎么看懂上市公司年报？【股票投资者版本】 - 阳光下的沈同学的文章 - 知乎](https://zhuanlan.zhihu.com/p/367359240)
    2. [ ] [股票基本面如何分析？ - 阳光下的沈同学的回答 - 知乎](https://www.zhihu.com/question/23192771/answer/754928083)
+   3. [x] [【电算科技龙头企业】山高控股财务报表深度分析 - 阳光下的沈同学的文章 - 知乎](https://zhuanlan.zhihu.com/p/1903078824465405740) | 企业战略规划等如何体现到财务报表
 3. [x] [我国中央和地方的财政是怎样分配的？ - 有鸡大米的回答 - 知乎](https://www.zhihu.com/question/22489306/answer/2986627991) | 经济观察
 4. [x] [职业交易员如何做盘中纪录和“复盘” - Undefined的文章 - 知乎](https://zhuanlan.zhihu.com/p/659720478)
    * 记录盘中细节心理但不要当场总结&记录特殊交易日
-5. [ ] To be continued...
+5. [x] [经济危机的原因是生产过剩还是贫富悬殊？ - 王克丹的回答 - 知乎](https://www.zhihu.com/question/631891895/answer/3312679320)
+6. [ ] To be continued...
 
 # Videos
 1. [x] [My money & me 金钱与我](www.bilibili.com/bangumi/play/ss25413) | 纪录片，B站
