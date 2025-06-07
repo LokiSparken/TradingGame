@@ -172,6 +172,10 @@
 12. 外汇工厂交易系统板块 https://www.forexfactory.com/forum/71-trading-systems
 13. 技术指标观察 https://forex-station.com/
 
+其它
+
+14. 美债时钟 https://www.usdebtclock.org/
+
 # Infos
 1. [电子式储蓄国债发行信息](https://gks.mof.gov.cn/ztztz/guozaiguanli/gzfxdzs/)
 2. [国家外汇储备](https://www.safe.gov.cn/safe/whcb/index.html)：观察国家队黄金储备量
