@@ -61,6 +61,7 @@
 9. [ ] 21世纪货币政策 | [American]Ben S. Bernanke.
 10. [ ] 经济学原理 曼昆 上/下
 11. [ ] 魔鬼经济学
+12. [ ] 大衰退 辜朝明
 
 ## 市场观察
 1. [ ] 股市长线法宝 | 从非常宏观（全球）与长期（200年）的角度研究了股市的优势
@@ -144,8 +145,11 @@
    * 性价比产品挑选
 3. [x] [Become Warren Buffett 成为沃伦巴菲特](www.bilibili.com/video/BV13x411y7th) | 纪录片，y2b、B站
    * 关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活方式和成长历程。
-4. [ ] 经济机器是如何运行的
-5. [ ] To be continued...
+4. [ ] [Million Dollar Traders](www.bilibili.com/video/BV19a411X7eY) | 纪录片
+5. [ ] [Trading The Truth](www.bilibili.com/video/BV1FbLazmEtp) | 讲座
+   * Anton Kreil, March 30th 2017
+6. [ ] 经济机器是如何运行的
+7. [ ] To be continued...
 
 # Lectures
 
