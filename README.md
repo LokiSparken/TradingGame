@@ -193,6 +193,8 @@
 6. [海关总署进出口贸易数据](http://www.customs.gov.cn/eportal/ui?pageId=302275)
 7. [中经数据](https://ceidata.cei.cn/)
 8. [中国宏观经济论坛 China Macroeconomy Forum](http://ier.ruc.edu.cn/)
-9. To be continued...
+9. [全国农产品批发市场价格信息系统](https://pfsc.agri.cn/#/indexPage)
+10. [中国价格信息网](https://jgjc.ndrc.gov.cn/ncp/index.jhtml)
+11. To be continued...
 
 
