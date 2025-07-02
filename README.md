@@ -145,7 +145,8 @@
    * 性价比产品挑选
 3. [x] [Become Warren Buffett 成为沃伦巴菲特](www.bilibili.com/video/BV13x411y7th) | 纪录片，y2b、B站
    * 关于投资的核心内容不是很多，毕竟只是一个半小时的短片。但是能了解些生活方式和成长历程。
-4. [ ] [Million Dollar Traders](www.bilibili.com/video/BV19a411X7eY) | 纪录片
+4. [x] [Million Dollar Traders](www.bilibili.com/video/BV19a411X7eY) | 纪录片
+   * 短线交易员实战百态。感觉各种因素里面心理和情绪控制最重要。但话说回来用别人的钱做感觉压力确实爆大，还是自己的钱玩起来比较开心……干基金的还一定要持仓，真恐怖啊，没有空仓的自由毋宁死。
 5. [ ] [Trading The Truth](www.bilibili.com/video/BV1FbLazmEtp) | 讲座
    * Anton Kreil, March 30th 2017
 6. [ ] 经济机器是如何运行的
