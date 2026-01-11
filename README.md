@@ -33,7 +33,10 @@
    * 基本思路概览与不同类型各类交易策略的细化学习方向。含[看盘心得](https://zhuanlan.zhihu.com/p/558556059)、[基本面](https://zhuanlan.zhihu.com/p/560683362)、[技术面](https://zhuanlan.zhihu.com/p/564786934)、消息面、[实战](https://zhuanlan.zhihu.com/p/582699122)、心理素质修炼等。
 6. [ ] 漫步华尔街 | *A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing*. [American]Burton G. Malkiel. 1973. 11th 2015.
 7. [ ] 对冲基金奇才 | *Hedge Fund Market Wizards: How Winning Traders Win*.
-8. [ ] To be continued...
+8. [x] 零基础学炒股从入门到精通（第三版） | 廖海燕
+   * 书名大减分，太浮夸了（。内容感觉是从入门到入门，能把零散了解的东西组织个概览。
+9.  [ ] 
+10. [ ] To be continued...
 
 ## 技术面
 1. [ ] 股市趋势技术分析 | *Technical Analysis of Stock Trends*. [American]Robert D. Edwards, John Magee. 1948. 11th Edition 2018.
@@ -88,7 +91,7 @@
 
 
 # 待整理书单
-1. [ ] 聪明的投资者 | 价值投资
+1. [ ] 聪明的投资者 | 价值投资 新手
 2.  [ ] 幽灵的礼物
 3.  [ ] 海龟交易法则 | 学习科学的建仓方法，一致性等内容
 4.  [ ] 索罗斯《金融炼金术》，最好看英文版
@@ -119,10 +122,17 @@
 29. [ ] 滚雪球：巴菲特和他的财富人生
 30. [ ] 怎样选择成长股 费雪
 31. [ ] 
-32. [ ] 期权、期货及其他衍生产品 *Options, futures, and other derivatives*. 11th | 金融专业教材
-33. [ ] 金融随机分析 **.Steven E. Shreve.| 金融工程专业书
-34. [ ] 金融人工智能 *Artificial Intelligence in Finance*. | 用炼丹优化量化模型
-35. [ ] To be continued...
+32. [ ] 零基础学股票投资：从入门到精通 | 新手 A股
+33. [ ] 股市极客思考录 彭道富 | A股市场的运行特点
+34. [ ] 穷查理宝典 查理芒格
+35. [ ] 投资中最简单的事 邱国鹭 | 新手 A股
+36. [ ] 
+37. [ ] 大前研一 低欲望社会
+38. [ ] 
+39. [ ] 期权、期货及其他衍生产品 *Options, futures, and other derivatives*. 11th | 金融专业教材
+40. [ ] 金融随机分析 **.Steven E. Shreve.| 金融工程专业书
+41. [ ] 金融人工智能 *Artificial Intelligence in Finance*. | 用炼丹优化量化模型
+42. [ ] To be continued...
 
 
 # Articles
@@ -149,8 +159,10 @@
    * 短线交易员实战百态。感觉各种因素里面心理和情绪控制最重要。但话说回来用别人的钱做感觉压力确实爆大，还是自己的钱玩起来比较开心……干基金的还一定要持仓，真恐怖啊，没有空仓的自由毋宁死。
 5. [ ] [Trading The Truth](www.bilibili.com/video/BV1FbLazmEtp) | 讲座
    * Anton Kreil, March 30th 2017
-6. [ ] 经济机器是如何运行的
-7. [ ] To be continued...
+6. [x] [Get Smart With Money]() | 纪录片
+   * 和 My money & me 还有小狗钱钱差不多的基本理财概念介绍
+7. [ ] 经济机器是如何运行的
+8. [ ] To be continued...
 
 # Lectures
 
